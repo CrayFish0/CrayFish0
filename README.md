@@ -41,6 +41,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrayFish0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Languages Used"/>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrayFIsh0/CrayFish0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrayFIsh0/CrayFIsh0/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CrayFIsh0/CrayFIsh0/output/github-snake.svg" />
+</picture>
+
 ## 🌐 Socials
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cray.fish.75.02@gmail.com)
