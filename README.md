@@ -1,5 +1,3 @@
-<img src="Assets/Header.png" alt="GitHub Banner" width="100%" />
-
 # About Me 👋🏼
 
 - 💻 Currently building Flutter apps
