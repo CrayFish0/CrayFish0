@@ -4,33 +4,37 @@
 
 <div align="center">
   
-# 👋 Hello World! I'm Soumyojit Sengupta
-  
-*A passionate Computer Science student crafting digital experiences*
+# �‍💻 Hello World! I'm Soumyojit Sengupta 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Flutter+Developer;Game+Dev+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
 
 </div>
 
-## 🚀 About Me
+## �‍♂️ About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
 name: Soumyojit Sengupta
 github_username: CrayFish0
-role: Computer Science Student & Flutter Developer
-location: University of Engineering and Management (UEM)
-currently_working_on: Flutter mobile applications
-learning: Game development with Godot Engine
-interests: [Films, Language Learning, Technology, Gaming]
+role: Computer Science Student & Flutter Developer 💙
+location: University of Engineering and Management (UEM) 🏫
+currently_working_on: Flutter mobile applications 📱
+learning: Game development with Godot Engine 🎮
+interests: [Films 🎬, Language Learning 🗣️, Technology 💻, Gaming 🎮]
+fun_fact: "I turn coffee into code ☕➡️💻"
 ```
 
 <div align="center">
   
-*"Building the future, one line of code at a time"*
+*"Building the future, one line of code at a time"* ✨
 
 </div>
 
-## 💻 Tech Arsenal
+## 💻 Tech Arsenal <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 
 ### �️ Programming Languages & Frameworks
 
@@ -100,13 +104,23 @@ interests: [Films, Language Learning, Technology, Gaming]
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrayFish0&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CrayFish0&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CrayFish0&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=CrayFish0&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&icon_color=00d9ff&title_color=00d9ff&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
+
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=CrayFish0&theme=tokyonight&hide_border=true&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
+
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrayFish0&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=00d9ff&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+
+</div>
+
+### 🔥 Contribution Activity
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CrayFish0&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -122,20 +136,46 @@ interests: [Films, Language Learning, Technology, Gaming]
 
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
+  <em><b>My GitHub journey - where commits tell a story!</b></em> 
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+</div>
+
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect & Collaborate <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cray.fish.75.02@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=CrayFish0&color=blueviolet&style=for-the-badge)](https://github.com/CrayFish0)
+### 📬 Reach Out To Me!
+
+<a href="mailto:cray.fish.75.02@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail"/>
+</a>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
 </div>
 
+---
+
 <div align="center">
-  
-### Thanks for visiting! 🌟
-*Feel free to explore my repositories and don't hesitate to reach out!*
+
+### 👁️‍🗨️ Profile Views Counter
+
+[![Profile Views](https://komarev.com/ghpvc/?username=CrayFish0&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/CrayFish0)
+
+<br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+### ⭐ Thanks for visiting! ⭐
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+
+**Feel free to explore my repositories and don't hesitate to reach out!** 🚀
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> **Happy Coding!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
 </div>
