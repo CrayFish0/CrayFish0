@@ -1,4 +1,18 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descSize=20" width="100%" alt="Header"/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Computer"/>
+  
+# 👨‍💻 Hello World! I'm Soumyojit Sengupta 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Flutter+Developer;Game+Dev+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+---
+
+</div>nter">
   <img src="/Assets/Header.png" alt="Header" width="100%"/>
 </div>
 
@@ -176,6 +190,10 @@ fun_fact: "I turn coffee into code ☕➡️💻"
 
 **Feel free to explore my repositories and don't hesitate to reach out!** 🚀
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> **Happy Coding!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Wave"/> **Happy Coding!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Wave"/>
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" alt="Footer"/>
 </div>
