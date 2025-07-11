@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="/Assets/Header.png" alt="Soumyojit Sengupta Header" width="100%" />
+  <img src="/Assets/Header.png" alt="CrayFish0 Header" width="100%" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+👋+I'm+Soumyojit+Sengupta;Welcome+to+my+Digital+Universe+🌌;Let's+Build+Something+Amazing!+🚀" alt="Dynamic Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+👋+I'm+CrayFish0;Welcome+to+my+Digital+Universe+🌌;Let's+Build+Something+Amazing!+🚀" alt="Dynamic Title" />
 </h1>
 
 <div align="center">
@@ -193,6 +193,19 @@ timeline
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrayFish0&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+## 🎯 Current Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| 🚀 **FlutterCraft** | Cross-platform mobile app with stunning UI | Flutter, Dart, Firebase | `In Progress` |
+| 🎮 **PixelQuest** | 2D indie game with procedural generation | Godot, GDScript, C# | `Planning` |
+| 🤖 **AIHelper** | ML-powered productivity assistant | Python, TensorFlow, OpenAI | `Prototype` |
+| 📱 **CodeSnippet Manager** | Developer productivity tool | Flutter, SQLite, Cloud | `Beta` |
+
 </div>
 
 ## 🤝 Connect With Me
