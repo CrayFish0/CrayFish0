@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+👋+I'm+Soumyojit+Sengupta;Welcome+to+my+Digital+Universe+🌌;Let's+Build+Something+Amazing!+🚀" alt="Dynamic Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=70&lines=Hi+there!+👋+I'm+Soumyojit+Sengupta;Welcome+to+my+Digital+Universe+🌌;Let's+Build+Something+Amazing!+🚀" alt="Dynamic Title" />
 </h1>
 
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=🎯+Full-Stack+Developer+%7C+Problem+Solver;🚀+Flutter+Enthusiast+%7C+Mobile+Innovator;🎮+Game+Dev+Explorer+%7C+Interactive+Experiences;🎓+CS+Student+%7C+Lifelong+Learner;🌟+Building+the+Future,+One+Line+at+a+Time" alt="Animated Bio" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=🎯+Full-Stack+Developer+%7C+Problem+Solver;🚀+Flutter+Enthusiast+%7C+Mobile+Innovator;🎮+Game+Dev+Explorer+%7C+Interactive+Experiences;🎓+CS+Student+%7C+Lifelong+Learner;🌟+Building+the+Future,+One+Line+at+a+Time" alt="Animated Bio" />
 </p>
 
 <div align="center">
@@ -47,16 +47,7 @@
 <td width="50%">
 
 <div align="center">
-
-### 📊 Live Coding Stats
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=CrayFish0&theme=github_dark&hide_border=true&layout=compact" alt="WakaTime Stats" />
-
-### 🎵 Currently Vibing To
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=crayfish0&unique=true" alt="Spotify" width="350"/>
-
-### 🌍 Visitor Map
-<img src="https://clustrmaps.com/map_v2.png?cl=080808&w=a&t=tt&d=example&co=ffffff&ct=808080" alt="Visitor Map" width="300"/>
-
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="400"/>
 </div>
 
 </td>
@@ -215,8 +206,6 @@ timeline
 ### 💫 Thanks for visiting! 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CrayFish0&style=for-the-badge&color=brightgreen)
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
 
 **"First, solve the problem. Then, write the code." – John Johnson**
 
