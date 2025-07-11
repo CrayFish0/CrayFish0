@@ -14,18 +14,6 @@
 
 ---
 
-
-<div align="center">
-  
-# �‍💻 Hello World! I'm Soumyojit Sengupta 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Flutter+Developer;Game+Dev+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-
----
-
-</div>
-
 ## �‍♂️ About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
