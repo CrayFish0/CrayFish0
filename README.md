@@ -1,216 +1,50 @@
-<div align="center">
-  <img src="/Assets/Header.png" alt="Soumyojit Sengupta Header" width="100%" />
-</div>
+![Header](/Assets/Header.png)
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=70&lines=Hi+there!+👋+I'm+Soumyojit+Sengupta;Welcome+to+my+Digital+Universe+🌌;Let's+Build+Something+Amazing!+🚀" alt="Dynamic Title" />
-</h1>
+# About Me 👋🏼
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Code%20•%20Create%20•%20Innovate&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=25" alt="Animated Header" width="100%"/>
-</div>
+- 💻 Currently building Flutter apps
+- 🎓 Studying Computer Science at UEM
+- 🎮 Currently learning game dev with Godot
+- 🎥 Film enthusiast and language learner
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=🎯+Full-Stack+Developer+%7C+Problem+Solver;🚀+Flutter+Enthusiast+%7C+Mobile+Innovator;🎮+Game+Dev+Explorer+%7C+Interactive+Experiences;🎓+CS+Student+%7C+Lifelong+Learner;🌟+Building+the+Future,+One+Line+at+a+Time" alt="Animated Bio" />
-</p>
+# 💻 Tech Stack
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coffee%20Cup.png" alt="Coffee Cup" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
-</div>
+#### **💻 Programming and Development**
 
-## 🚀 About Me
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-<table>
-<tr>
-<td width="50%">
+#### **🛠️ Tools and Platforms**
 
-### 🎯 Current Focus
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 
-- 🔭 **Building:** Next-gen Flutter applications with cutting-edge UI/UX
-- 🎓 **Studying:** Computer Science at UEM | Data Structures & Algorithms
-- 🎮 **Exploring:** Game development with Godot Engine & C#
-- 🎬 **Passion:** Film enthusiast & polyglot (English, Spanish, learning Japanese)
-- 💡 **Philosophy:** Code with purpose, design with empathy
-- 🌱 **Goal:** Contributing to open-source & building tech that matters
+#### **📊 Data and Machine Learning**  
 
-### 🎲 Fun Facts
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
-- 🦀 Named after a crustacean (obviously!)
-- ☕ Powered by coffee and curiosity
-- 🌙 Night owl programmer (peak productivity: 11 PM - 3 AM)
-- 🎵 Code soundtrack: Lo-fi hip hop & synthwave
-- 🏆 Debugging level: Rubber duck whisperer
+#### **🌐 Networking, IoT, and Game Development**  
 
-</td>
-<td width="50%">
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CrayFish0&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="Github Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrayFish0&theme=dark&hide_border=false" height="150" alt="Github Streaks"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrayFish0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Languages Used"/>
 </div>
 
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrayFIsh0/CrayFish0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrayFIsh0/CrayFish0/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CrayFIsh0/CrayFish0/output/github-snake.svg" />
+</picture>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=divider" alt="Divider" width="100%"/>
-</div>
+## � Socials
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=500&color=gradient&center=true&vCenter=true&width=800&lines=⚡+My+Digital+Arsenal+⚡;🔧+Technologies+I+Craft+With+🔧;🚀+Building+Tomorrow's+Solutions+🚀" alt="Tech Stack Title" />
-</h1>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cray.fish.75.02@gmail.com)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,dart,java,js,python,flutter,nodejs,tailwind,mysql,mongodb,aws,firebase,figma,git,github,postman,anaconda,tensorflow,godot,raspberrypi&theme=dark&perline=7" alt="Tech Stack Icons" />
-</div>
+---
 
-<details>
-<summary>
-  <h2 style="display: inline;">🎯 Interactive Skill Matrix</h2>
-</summary>
+### 🌍 Visitor Count
 
-<table>
-<tr>
-<td width="33%">
-
-### 💻 **Core Programming**
-```python
-class Developer:
-    def __init__(self):
-        self.languages = {
-            'Python': {'level': 9, 'years': 3},
-            'Dart': {'level': 8, 'years': 2},
-            'JavaScript': {'level': 8, 'years': 2},
-            'C++': {'level': 7, 'years': 2},
-            'Java': {'level': 7, 'years': 1},
-            'C': {'level': 6, 'years': 1}
-        }
-        
-    def get_favorite(self):
-        return "Python 🐍 & Dart 🎯"
-```
-
-</td>
-<td width="34%">
-
-### 🛠️ **Frameworks & Tools**
-```javascript
-const techStack = {
-  mobile: ['Flutter', 'Dart SDK'],
-  web: ['Node.js', 'TailwindCSS'],
-  databases: ['MongoDB', 'MySQL'],
-  cloud: ['AWS', 'Firebase'],
-  ml: ['TensorFlow', 'Pandas', 'NumPy'],
-  design: ['Figma', 'Krita'],
-  gamedev: ['Godot Engine'],
-  hardware: ['Raspberry Pi', 'Arduino']
-};
-
-console.log('Currently mastering:', techStack);
-```
-
-</td>
-<td width="33%">
-
-### 📊 **Skill Progression**
-![Python](https://progress-bar.dev/90/?scale=100&title=Python&width=200&color=3776ab)
-![Dart](https://progress-bar.dev/85/?scale=100&title=Dart&width=200&color=0175c2)
-![JavaScript](https://progress-bar.dev/80/?scale=100&title=JavaScript&width=200&color=f7df1e)
-![Flutter](https://progress-bar.dev/85/?scale=100&title=Flutter&width=200&color=02569b)
-![Machine Learning](https://progress-bar.dev/75/?scale=100&title=ML/AI&width=200&color=ff6f00)
-![Game Dev](https://progress-bar.dev/65/?scale=100&title=Game%20Dev&width=200&color=478cbf)
-
-</td>
-</tr>
-</table>
-
-### 🎮 **Interactive Technology Timeline**
-```mermaid
-timeline
-    title My Tech Journey
-    2022 : Python Fundamentals
-         : Data Structures & Algorithms
-    2023 : Flutter Development
-         : Mobile App Projects
-         : Machine Learning Basics
-    2024 : Advanced Flutter
-         : Game Development with Godot
-         : Cloud Computing (AWS)
-    2025 : Full-Stack Development
-         : AI/ML Specialization
-         : Open Source Contributions
-```
-
-</details>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=divider" alt="Divider" width="100%"/>
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CrayFish0&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrayFish0&theme=github-dark-blue&hide_border=true" height="180" alt="GitHub Streaks"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrayFish0&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="200" alt="Top Languages"/>
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrayFIsh0/CrayFish0/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrayFIsh0/CrayFish0/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/CrayFIsh0/CrayFish0/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=divider" alt="Divider" width="100%"/>
-</div>
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CrayFish0&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
-## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrayFish0&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cray.fish.75.02@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/crayfish0)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://crayfish0.dev)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/crayfish0)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=divider" alt="Divider" width="100%"/>
-</div>
-
-<div align="center">
-  
-### 💫 Thanks for visiting! 
-
-![Profile Views](https://komarev.com/ghpvc/?username=CrayFish0&style=for-the-badge&color=brightgreen)
-
-**"First, solve the problem. Then, write the code." – John Johnson**
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Keep%20Coding!&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=75" alt="Footer" width="100%"/>
-</div>
+![](https://komarev.com/ghpvc/?username=CrayFish0)
